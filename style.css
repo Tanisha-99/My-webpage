@@ -1,0 +1,147 @@
+.home
+{
+    background-image: url("background.jpeg") ;
+    height : 500px;
+    opacity: 1;
+    margin:10px;
+   
+}
+
+.h
+{
+    text-align: center;
+    color:whitesmoke;
+    padding : 250px 45px;
+    font-family:cursive;
+    font-weight:800px;
+}
+
+.about
+{
+    
+    display:flex;
+    position:relative;
+    padding:30px;
+    background:#162c3b;
+    margin:10px;
+    
+}
+
+.about .a
+{
+    
+    padding:40px;
+    color: white;
+    
+}
+
+.heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align:center;
+    font-weight: 600;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+
+.text
+{
+    font-family: calibri;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+img
+{
+    float:right;
+    padding:30px;
+    height:500px;
+}
+
+.skills
+{
+    background: #2a4557;
+    padding:50px;
+    margin : 10px;
+    color: whitesmoke;
+}
+
+.skills .heading
+{
+    margin : 5px;
+}
+
+.skills .text
+{
+    margin : 5px;
+}
+
+ul
+{
+    list-style-type : circle;
+}
+
+.hobbies
+{
+    background: #15222b;
+    padding:50px;
+    margin : 10px;
+    color: whitesmoke;
+}
+
+.hobbies .heading
+{
+    margin : 5px;
+}
+
+.hobbies .text
+{
+    margin : 5px;
+}
+
+.contacts
+{
+    background:#17232c;
+    padding:50px;
+    margin:10px;
+    color:whitesmoke;
+}
+
+.contacts .sub
+{
+    text-align: center;
+    text-decoration: none;
+}
+
+.contacts .heading
+{
+    margin : 5px;
+}
+
+.contacts .text
+{
+    margin : 5px;
+}
+
+.contacts h3
+{
+    font-weight:400;
+    text-decoration:underline;
+    font-size: 20px;
+}
+
+a:hover
+{
+    color:red;
+}
+
+a:visited
+{
+    color: violet;
+}
+
+a
+{
+    color:lightskyblue;
+}
